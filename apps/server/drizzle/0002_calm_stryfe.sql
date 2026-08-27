@@ -1,0 +1,1 @@
+ALTER TABLE "transactions" ADD COLUMN "needsReview" boolean DEFAULT false NOT NULL;

@@ -1,0 +1,15 @@
+{
+  "name": "tally-budget",
+  "private": true,
+  "packageManager": "pnpm@11.23.0",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "typecheck": "corepack pnpm --filter @tally/core build && corepack pnpm -r typecheck",
+    "build": "corepack pnpm --filter @tally/core build && corepack pnpm -r build",
+    "test": "corepack pnpm -r test",
+    "dev": "corepack pnpm -r --parallel dev",
+    "dev:stop": "fuser -k 3001/tcp 2>/dev/null || true"
+  }
+}

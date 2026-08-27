@@ -1,0 +1,2 @@
+ALTER TABLE "buckets" ADD COLUMN "due_day" integer;--> statement-breakpoint
+ALTER TABLE "buckets" ADD CONSTRAINT "buckets_due_day_range" CHECK ("buckets"."due_day" IS NULL OR "buckets"."due_day" BETWEEN 1 AND 31);

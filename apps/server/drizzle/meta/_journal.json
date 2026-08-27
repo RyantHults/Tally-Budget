@@ -1,0 +1,83 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1787589548386,
+      "tag": "0000_sticky_spot",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1787630146303,
+      "tag": "0001_faulty_forgotten_one",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1787678783009,
+      "tag": "0002_calm_stryfe",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1787687016633,
+      "tag": "0003_ordinary_joshua_kane",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1787780000000,
+      "tag": "0004_add_account_status_lasseenat",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1787780000001,
+      "tag": "0005_icy_pestilence",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1787801103094,
+      "tag": "0006_adorable_agent_brand",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1787802872867,
+      "tag": "0007_worthless_lila_cheney",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1787803826114,
+      "tag": "0008_sleepy_spot",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1787805534507,
+      "tag": "0009_equal_cable",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1787857604848,
+      "tag": "0010_concerned_amazoness",
+      "breakpoints": true
+    }
+  ]
+}
