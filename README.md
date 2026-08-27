@@ -1,7 +1,6 @@
 # Tally Budget (self-hosted)
 
-A self-hosted, read-and-categorize budgeting app inspired by Tally Budget.
-See `budgeting-app-plan.md` for the full plan.
+A self-hosted, read-and-categorize budgeting app.
 
 ## Stack
 
